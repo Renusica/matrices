@@ -6,6 +6,11 @@ m=[
 ["G", "H", "I"]
 ]
 
+while True:
+    print("Quieres ejecutar la Matriz")
+    print("1. Si")
+    print("2. No")
+
 
 
 for f in m:
